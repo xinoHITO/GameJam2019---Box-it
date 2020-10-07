@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -210.9, y: -89}
+  m_AnchoredPosition: {x: -202.03697, y: -38.473656}
   m_SizeDelta: {x: 242.79999, y: 48.299988}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1569428651731844227
@@ -58,13 +58,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5d8f141b5fa0e9b41b972e01421e92bc, type: 3}
     m_FontSize: 35
@@ -106,7 +104,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6364491939228075177}
   m_LocalRotation: {x: -0, y: -0, z: -0.1518889, w: 0.9883976}
-  m_LocalPosition: {x: 0, y: 0, z: -1.46}
+  m_LocalPosition: {x: 0, y: 0, z: -1.460019}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6364491939256396600}
@@ -114,7 +112,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17.473001}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -98.5, y: -127}
+  m_AnchoredPosition: {x: 17.90001, y: -16.09999}
   m_SizeDelta: {x: 288.1, y: 69.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6364491939228075172
@@ -138,13 +136,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5d8f141b5fa0e9b41b972e01421e92bc, type: 3}
     m_FontSize: 35
@@ -213,10 +209,10 @@ RectTransform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -171.2, y: -107}
+  m_SizeDelta: {x: 342.47397, y: 212.94727}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6364491939256396602
 CanvasRenderer:
